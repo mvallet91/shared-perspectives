@@ -1,0 +1,6 @@
+Go to http://jmcauley.ucsd.edu/data/amazon/ to find the dataset containing the reviews.
+
+Originally created for:
+Image-based recommendations on styles and substitutes
+J. McAuley, C. Targett, J. Shi, A. van den Hengel
+SIGIR, 2015
