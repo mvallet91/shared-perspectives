@@ -19,7 +19,7 @@ and we apply a clustering algorithm on the PTs for every item, we get Shared Per
 Then the Shared Perspective Tuples, center of those SPs, can be the representation of the item in a Query by Example, 
 so a system is able to find the items with most similar experiences by users.
 ***
-Feel free to check the (Wiki)[https://github.com/mvallet91/shared-perspectives/wiki] for more!
+Feel free to check the [Wiki](https://github.com/mvallet91/shared-perspectives/wiki) or even the [thesis report](https://repository.tudelft.nl/) for more!
 
 ***
 
