@@ -179,9 +179,9 @@ class TestProgram(Ui_Dialog):
 		self.label_8.setPixmap(movie_image[7])
 		self.label_9.setPixmap(movie_image[8])
 
-		# self.textEdit_1.textCursor().insertHtml(str(perspectives[0]))
-		# self.textEdit_2.textCursor().insertHtml(str(perspectives[1]))
-		# self.textEdit_3.textCursor().insertHtml(str(perspectives[2]))
+		self.use1.textCursor().insertHtml(str(perspectives[0]))
+		self.use2.textCursor().insertHtml(str(perspectives[1]))
+		self.use3.textCursor().insertHtml(str(perspectives[2]))
 
 		# self.textEdit_A.textCursor().insertHtml(str(display_text[0]))
 		# self.textEdit_A2.textCursor().insertHtml(str(display_text[1]))
